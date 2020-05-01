@@ -1,5 +1,7 @@
 ## A Webframework written in Typescript
 
+composition <--> inheritance
+
 ### Start the project
 
 ```
